@@ -1,0 +1,12 @@
+body {
+  background: #ffcab0;
+}
+
+h1,
+p {
+  text-align: center;
+}
+a {
+  text-align: center;
+  display: block;
+}
